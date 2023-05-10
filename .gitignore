@@ -1,12 +1,7 @@
 scrcpy_android/*.iml
 scrcpy_android/.gradle
 scrcpy_android/local.properties
-scrcpy_android/.idea/caches
-scrcpy_android/.idea/libraries
-scrcpy_android/.idea/modules.xml
-scrcpy_android/.idea/workspace.xml
-scrcpy_android/.idea/navEditor.xml
-scrcpy_android/.idea/assetWizardSettings.xml
+scrcpy_android/.idea/
 scrcpy_android/.DS_Store
 scrcpy_android/build
 scrcpy_android/app/release
@@ -19,12 +14,7 @@ scrcpy_android/app/src/main/assets/scrcpy-server.jar
 scrcpy_back/*.iml
 scrcpy_back/.gradle
 scrcpy_back/local.properties
-scrcpy_back/.idea/caches
-scrcpy_back/.idea/libraries
-scrcpy_back/.idea/modules.xml
-scrcpy_back/.idea/workspace.xml
-scrcpy_back/.idea/navEditor.xml
-scrcpy_back/.idea/assetWizardSettings.xml
+scrcpy_back/.idea/
 scrcpy_back/.DS_Store
 scrcpy_back/build
 scrcpy_back/app/release
